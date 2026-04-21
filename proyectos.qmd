@@ -1,0 +1,93 @@
+---
+title: " "
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="content-section">
+
+  <h2 class="section-title">Proyectos</h2>
+  <hr class="section-divider" />
+
+  <p style="color: #7f8c8d; font-size: 0.95rem; margin-bottom: 2rem;">
+    Aquí encontrarás una selección de mis proyectos de investigación,
+    académicos y personales.
+  </p>
+
+  <!-- Proyecto 1 -->
+  <div class="card-proyecto">
+    <h3>🔬 Nombre del proyecto principal de investigación</h3>
+    <p>
+      Breve descripción del proyecto: qué problema aborda, qué metodología
+      utilizas y cuál es el impacto esperado. Sé conciso pero informativo.
+    </p>
+    <div>
+      <span class="tag">Python</span>
+      <span class="tag">Machine Learning</span>
+      <span class="tag">Datos abiertos</span>
+    </div>
+    <div style="margin-top: 0.75rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+      <a href="#" class="btn-minimal" style="font-size: 0.8rem; padding: 0.25rem 0.75rem;">
+        GitHub
+      </a>
+      <a href="#" class="btn-minimal btn-accent" style="font-size: 0.8rem; padding: 0.25rem 0.75rem;">
+        Ver demo
+      </a>
+    </div>
+  </div>
+
+  <!-- Proyecto 2 -->
+  <div class="card-proyecto">
+    <h3>📊 Análisis de [tema específico de tu área]</h3>
+    <p>
+      Descripción del segundo proyecto. Puedes mencionar la fuente de datos,
+      el método de análisis y los resultados preliminares o finales obtenidos.
+    </p>
+    <div>
+      <span class="tag">R</span>
+      <span class="tag">Visualización</span>
+      <span class="tag">Estadística</span>
+    </div>
+    <div style="margin-top: 0.75rem;">
+      <a href="#" class="btn-minimal" style="font-size: 0.8rem; padding: 0.25rem 0.75rem;">
+        GitHub
+      </a>
+    </div>
+  </div>
+
+  <!-- Proyecto 3 -->
+  <div class="card-proyecto">
+    <h3>📝 Nombre del tercer proyecto o trabajo académico</h3>
+    <p>
+      Descripción de otro proyecto relevante. Puede ser un trabajo colaborativo,
+      un proyecto de clase sobresaliente o un trabajo en progreso.
+    </p>
+    <div>
+      <span class="tag">Quarto</span>
+      <span class="tag">Investigación</span>
+      <span class="tag">En progreso</span>
+    </div>
+    <div style="margin-top: 0.75rem;">
+      <a href="#" class="btn-minimal" style="font-size: 0.8rem; padding: 0.25rem 0.75rem;">
+        Más info
+      </a>
+    </div>
+  </div>
+
+  <!-- Proyecto 4 -->
+  <div class="card-proyecto">
+    <h3>🌐 Cuarto proyecto o colaboración</h3>
+    <p>
+      Otro trabajo relevante que quieras mostrar. Los proyectos pueden ser
+      técnicos, de divulgación científica, de diseño o cualquier otro ámbito.
+    </p>
+    <div>
+      <span class="tag">Colaboración</span>
+      <span class="tag">Divulgación</span>
+    </div>
+  </div>
+
+</div>
+```

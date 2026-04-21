@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tu Nombre"
+  description: "Sitio personal de estudiante"
+  favicon: "assets/favicon.ico"
+
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Publicaciones"
+        href: publicaciones.qmd
+      - text: "Proyectos"
+        href: proyectos.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Hobbies"
+        href: hobbies.qmd
+      - text: "Contacto"
+        href: contacto.qmd
+    right:
+      - icon: github
+        href: https://github.com/tu-usuario
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/tu-usuario
+        aria-label: LinkedIn
+
+  page-footer:
+    center: |
+      Hecho con [Quarto](https://quarto.org) · © 2026 Tu Nombre
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    page-layout: full

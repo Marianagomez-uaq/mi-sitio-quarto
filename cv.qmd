@@ -1,0 +1,136 @@
+---
+title: " "
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="content-section">
+
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.5rem;">
+    <div>
+      <h2 class="section-title">Currículum Vitae</h2>
+      <hr class="section-divider" />
+    </div>
+    <a href="assets/cv.pdf" class="btn-minimal btn-accent" download>
+      ⬇ Descargar CV (PDF)
+    </a>
+  </div>
+
+  <!-- EDUCACIÓN -->
+  <div class="cv-bloque">
+    <h3 style="font-size: 0.85rem; font-weight: 700; color: #7f8c8d;
+               text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1rem;">
+      Educación
+    </h3>
+
+    <div class="cv-entry">
+      <div class="cv-anio">2022 – presente</div>
+      <div class="cv-detalle">
+        <h4>Doctorado en [Área de conocimiento]</h4>
+        <div class="institucion">Universidad · Facultad / Departamento</div>
+        <p>Tesis: "Título provisional de tu tesis". Asesor: Dr. Nombre Apellido.</p>
+      </div>
+    </div>
+
+    <div class="cv-entry">
+      <div class="cv-anio">2019 – 2022</div>
+      <div class="cv-detalle">
+        <h4>Maestría en [Área]</h4>
+        <div class="institucion">Universidad · Ciudad, País</div>
+        <p>Tesis: "Título de tu tesis de maestría". Mención honorífica.</p>
+      </div>
+    </div>
+
+    <div class="cv-entry">
+      <div class="cv-anio">2014 – 2019</div>
+      <div class="cv-detalle">
+        <h4>Licenciatura en [Carrera]</h4>
+        <div class="institucion">Universidad · Ciudad, País</div>
+        <p>Promedio: X.X/10. Titulado con tesis.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- EXPERIENCIA ACADÉMICA -->
+  <div class="cv-bloque">
+    <h3 style="font-size: 0.85rem; font-weight: 700; color: #7f8c8d;
+               text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1rem;">
+      Experiencia académica
+    </h3>
+
+    <div class="cv-entry">
+      <div class="cv-anio">2023 – 2025</div>
+      <div class="cv-detalle">
+        <h4>Ayudante de investigación</h4>
+        <div class="institucion">Laboratorio de [Nombre] · Universidad</div>
+        <p>Descripción breve de tus responsabilidades y logros en este puesto.</p>
+      </div>
+    </div>
+
+    <div class="cv-entry">
+      <div class="cv-anio">2022</div>
+      <div class="cv-detalle">
+        <h4>Docente auxiliar — [Nombre de la materia]</h4>
+        <div class="institucion">Universidad · Facultad</div>
+        <p>Impartición de clases, diseño de materiales y evaluación de estudiantes.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- BECAS Y RECONOCIMIENTOS -->
+  <div class="cv-bloque">
+    <h3 style="font-size: 0.85rem; font-weight: 700; color: #7f8c8d;
+               text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1rem;">
+      Becas y reconocimientos
+    </h3>
+
+    <div class="cv-entry">
+      <div class="cv-anio">2022 – hoy</div>
+      <div class="cv-detalle">
+        <h4>Beca Nacional de Posgrado</h4>
+        <div class="institucion">CONAHCYT · México</div>
+      </div>
+    </div>
+
+    <div class="cv-entry">
+      <div class="cv-anio">2021</div>
+      <div class="cv-detalle">
+        <h4>Mejor tesis de maestría — [Área]</h4>
+        <div class="institucion">Nombre de la institución o premio</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- HABILIDADES -->
+  <div class="cv-bloque">
+    <h3 style="font-size: 0.85rem; font-weight: 700; color: #7f8c8d;
+               text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1rem;">
+      Habilidades
+    </h3>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem;">
+      <div>
+        <strong style="font-size: 0.85rem; color: #2c3e50;">Lenguajes y herramientas</strong>
+        <p style="font-size: 0.85rem; color: #7f8c8d; margin-top: 0.3rem;">
+          R · Python · Quarto · LaTeX · Git · SPSS
+        </p>
+      </div>
+      <div>
+        <strong style="font-size: 0.85rem; color: #2c3e50;">Idiomas</strong>
+        <p style="font-size: 0.85rem; color: #7f8c8d; margin-top: 0.3rem;">
+          Español (nativo) · Inglés (avanzado, B2) · Portugués (básico)
+        </p>
+      </div>
+      <div>
+        <strong style="font-size: 0.85rem; color: #2c3e50;">Métodos</strong>
+        <p style="font-size: 0.85rem; color: #7f8c8d; margin-top: 0.3rem;">
+          Análisis estadístico · Revisión sistemática · Diseño experimental
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
+```

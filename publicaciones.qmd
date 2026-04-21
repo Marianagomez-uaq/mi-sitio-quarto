@@ -1,0 +1,91 @@
+---
+title: " "
+format:
+  html:
+    page-layout: full
+---
+
+```{=html}
+<div class="content-section">
+
+  <h2 class="section-title">Publicaciones académicas</h2>
+  <hr class="section-divider" />
+
+  <!-- Artículos en revistas -->
+  <h3 style="font-size: 1rem; font-weight: 600; color: #7f8c8d;
+             text-transform: uppercase; letter-spacing: 0.05em;
+             margin: 2rem 0 1rem;">Artículos en revistas</h3>
+
+  <div class="publicacion-item">
+    <div class="pub-title">
+      <span class="pub-year-badge">2025</span>
+      Título del artículo publicado en revista indexada
+    </div>
+    <div class="pub-autores">Tu Nombre, Coautor A, Coautor B</div>
+    <div class="pub-journal">Nombre de la Revista · Vol. X, No. Y, pp. Z–ZZ</div>
+    <div style="margin-top: 0.5rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+      <a href="#" class="btn-minimal" style="font-size: 0.78rem; padding: 0.2rem 0.6rem;">PDF</a>
+      <a href="#" class="btn-minimal" style="font-size: 0.78rem; padding: 0.2rem 0.6rem;">DOI</a>
+    </div>
+  </div>
+
+  <div class="publicacion-item">
+    <div class="pub-title">
+      <span class="pub-year-badge">2024</span>
+      Otro artículo de investigación con título descriptivo
+    </div>
+    <div class="pub-autores">Tu Nombre, Coautor C</div>
+    <div class="pub-journal">Otra Revista Científica · Vol. A, No. B</div>
+    <div style="margin-top: 0.5rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+      <a href="#" class="btn-minimal" style="font-size: 0.78rem; padding: 0.2rem 0.6rem;">PDF</a>
+      <a href="#" class="btn-minimal" style="font-size: 0.78rem; padding: 0.2rem 0.6rem;">DOI</a>
+    </div>
+  </div>
+
+  <!-- Ponencias en congresos -->
+  <h3 style="font-size: 1rem; font-weight: 600; color: #7f8c8d;
+             text-transform: uppercase; letter-spacing: 0.05em;
+             margin: 2.5rem 0 1rem;">Ponencias en congresos</h3>
+
+  <div class="publicacion-item">
+    <div class="pub-title">
+      <span class="pub-year-badge">2025</span>
+      Título de la ponencia presentada en el congreso
+    </div>
+    <div class="pub-autores">Tu Nombre</div>
+    <div class="pub-journal">Nombre del Congreso Internacional · Ciudad, País</div>
+    <div style="margin-top: 0.5rem;">
+      <a href="#" class="btn-minimal" style="font-size: 0.78rem; padding: 0.2rem 0.6rem;">Diapositivas</a>
+    </div>
+  </div>
+
+  <div class="publicacion-item">
+    <div class="pub-title">
+      <span class="pub-year-badge">2024</span>
+      Título de otra ponencia o presentación académica
+    </div>
+    <div class="pub-autores">Tu Nombre, Coautor A</div>
+    <div class="pub-journal">Simposio Regional de [Área] · Ciudad, País</div>
+  </div>
+
+  <!-- Tesis -->
+  <h3 style="font-size: 1rem; font-weight: 600; color: #7f8c8d;
+             text-transform: uppercase; letter-spacing: 0.05em;
+             margin: 2.5rem 0 1rem;">Tesis</h3>
+
+  <div class="publicacion-item">
+    <div class="pub-title">
+      <span class="pub-year-badge">2023</span>
+      Título de tu tesis de licenciatura o maestría
+    </div>
+    <div class="pub-autores">Tu Nombre</div>
+    <div class="pub-journal">
+      Tesis de [Licenciatura / Maestría] · Universidad · Asesor: Dr. Nombre
+    </div>
+    <div style="margin-top: 0.5rem;">
+      <a href="#" class="btn-minimal" style="font-size: 0.78rem; padding: 0.2rem 0.6rem;">PDF</a>
+    </div>
+  </div>
+
+</div>
+```
