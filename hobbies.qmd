@@ -23,13 +23,13 @@ format:
     <div class="hobby-card">
       <div class="hobby-icon">📚</div>
       <h4>Lectura</h4>
-      <p>Ciencia ficción, ensayo y divulgación científica. Actualmente leyendo: <em>"Título del libro"</em>.</p>
+      <p>Fantasía, distopía, y divulgación científica. Actualmente leyendo: <em>"Seis de Cuervos"</em>.</p>
     </div>
 
     <div class="hobby-card">
       <div class="hobby-icon">🎵</div>
       <h4>Música</h4>
-      <p>Toco [instrumento] desde los [X] años. Me interesa el jazz, el folk y la música experimental.</p>
+      <p>Estoy aprendiendo a tocar la guitarra. Me gusta el pop, el rock y la música indie.</p>
     </div>
 
     <div class="hobby-card">
@@ -40,8 +40,8 @@ format:
 
     <div class="hobby-card">
       <div class="hobby-icon">📷</div>
-      <h4>Fotografía</h4>
-      <p>Fotografía analógica y de paisaje. Creo que mirar por el visor enseña a observar el mundo de otra manera.</p>
+      <h4>Videojuegos</h4>
+      <p>Exploración y puzzles. Algunos juegos que me gustan: Alice: Madness Returns, Portal: Still Alive.</p>
     </div>
 
     <div class="hobby-card">

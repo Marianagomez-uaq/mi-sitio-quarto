@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
-  title: "Tu Nombre"
+  title: "Marianaa"
   description: "Sitio personal de estudiante"
   favicon: "assets/favicon.ico"
 
@@ -31,7 +31,7 @@ website:
 
   page-footer:
     center: |
-      Hecho con [Quarto](https://quarto.org) · © 2026 Tu Nombre
+      Hecho con [Quarto](https://quarto.org) · © 2026 Marianaa
 
 format:
   html:

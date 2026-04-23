@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ":)"
 format:
   html:
     page-layout: full
@@ -14,16 +14,15 @@ format:
   </div>
 
   <!-- Nombre y cargo -->
-  <h1>Tu Nombre Aquí</h1>
+  <h1>Mariana Gómez Becerra</h1>
   <p class="subtitle">
-    Estudiante de Licenciatura-Maestría-Doctorado · Universidad  Autónoma de Querétaro
+    Estudiante de Licenciatura· Universidad  Autónoma de Querétaro
   </p>
 
   <!-- Bio corta -->
   <p>
-    Bienvenido/a a mi sitio personal. Soy estudiante de [tu área de estudio],
-    con interés en [tema 1], [tema 2] y [tema 3]. Actualmente trabajo en
-    [proyecto o tesis] bajo la supervisión del Dr. [Nombre].
+    Bienvenido/a a mi sitio personal. Soy estudiante de Microbiología,
+    con interés en comunidades sintéticas, redes biológicas y aplicar mi conocimiento en la industria.
   </p>
 
   <!-- Botones de acción -->
@@ -52,8 +51,7 @@ format:
   </p>
 
   <p>
-    Actualmente me encuentro en el [año] año de mi [Licenciatura / Maestría /
-    Doctorado] en [área]. Mis intereses de investigación incluyen:
+    Actualmente me encuentro en el 3er año de mi Licenciatura en Microbiología. Mis intereses de investigación incluyen:
   </p>
 
   <ul style="color: #7f8c8d; font-size: 0.95rem;">
@@ -68,8 +66,8 @@ format:
 
   <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
     <div>
-      <strong style="font-size: 0.95rem;">Nombre de la Universidad</strong><br>
-      <span style="font-size: 0.85rem; color: #7f8c8d;">Departamento / Facultad · Ciudad, País</span>
+      <strong style="font-size: 0.95rem;">Universidad Autónoma de Querétaro</strong><br>
+      <span style="font-size: 0.85rem; color: #7f8c8d;">Facultad de Ciencias Naturales · Querétaro, México</span>
     </div>
   </div>
 
