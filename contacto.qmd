@@ -27,9 +27,9 @@ format:
                  2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2
                  2 0 002 2z"/>
       </svg>
-      mgomez110@alumnos.uaq.mx
+      mgomez110@-alumnos.uaq.mx
     </a>
-
+    
     <a href="https://github.com/tu-usuario" target="_blank" class="contacto-card">
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
            fill="#3498db">
@@ -97,7 +97,7 @@ format:
 
   <!-- Nota de respuesta -->
   <p style="font-size: 0.85rem; color: #7f8c8d; margin-top: 2rem;">
-    📍 Ubicación: Ciudad, País &nbsp;·&nbsp;
+    📍 Ubicación: Querétaro, Querétaro, México &nbsp;·&nbsp;
     ⏱ Tiempo de respuesta habitual: 2–3 días hábiles
   </p>
 
