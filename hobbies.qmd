@@ -39,7 +39,7 @@ format:
     </div>
 
     <div class="hobby-card">
-      <div class="hobby-icon">📷</div>
+      <div class="hobby-icon">🎮</div>
       <h4>Videojuegos</h4>
       <p>Exploración y puzzles. Algunos juegos que me gustan: Alice: Madness Returns, Portal: Still Alive.</p>
     </div>

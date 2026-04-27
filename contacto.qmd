@@ -19,7 +19,7 @@ format:
   <!-- Grid de contacto -->
   <div class="contacto-grid">
 
-    <a href="mailto:tu@correo.edu.mx" class="contacto-card">
+    <a href="mailto:mgomez110@alumnos.uaq.mx" class="contacto-card">
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"
            viewBox="0 0 24 24" stroke="#3498db" stroke-width="2">
         <path stroke-linecap="round" stroke-linejoin="round"
@@ -27,7 +27,7 @@ format:
                  2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2
                  2 0 002 2z"/>
       </svg>
-      tu@correo.edu.mx
+      mgomez110@alumnos.uaq.mx
     </a>
 
     <a href="https://github.com/tu-usuario" target="_blank" class="contacto-card">
