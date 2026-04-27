@@ -10,7 +10,7 @@ format:
 
   <!-- Foto de perfil -->
   <div class="avatar-wrapper">
-    <img src="foto.jpg" alt="Foto de perfil" />
+    <img src="foto.jpeg" alt="Foto de perfil" />
   </div>
 
   <!-- Nombre y cargo -->
